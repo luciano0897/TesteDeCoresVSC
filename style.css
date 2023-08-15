@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+}
+label{
+    color: fuchsia;
+}
+button{
+    background-color: aquamarine;
+    color: fuchsia;
+}
+input{
+    background-color: rgb(200, 100, 54);
+
+}
+.azul{
+   color: blue; 
+   background-color: aqua;
+}
+.vermelho{
+    color:red;
+    background-color: black;
+  
+
+}
+.verde{
+    color:green;
+   background-color: white;
+}
+.amarelo{
+    color:yellow;
+    background-color: brown;
+}
